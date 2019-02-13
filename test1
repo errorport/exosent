@@ -1,0 +1,15 @@
+*G., Bencsik, Lil H.P.
+%Testing SENT with Lil H.P. in da hut!
+Testing SENT
+by errorPort
+
+First look
+\
+- how to make a header?
+- how to make it active?
+- how to get fixed font size?
+- see: sent.c:529
+
+What about the author(s) and the title?
+\
+- see: sent.c:436
